@@ -9,7 +9,7 @@ function Home() {
         <div className="row">
           <div className="col-4">
             <Card className="text-center">
-              <Card.Header>Featured</Card.Header>
+              <Card.Header>Ultimo producto agregado</Card.Header>
               <Card.Body>
                 <Card.Title>Special title treatment</Card.Title>
                 <Card.Text>
@@ -23,7 +23,7 @@ function Home() {
           </div>
           <div className="col-4">
             <Card className="text-center">
-              <Card.Header>Featured</Card.Header>
+              <Card.Header>Modulos</Card.Header>
               <Card.Body>
                 <Card.Title>Special title treatment</Card.Title>
                 <Card.Text>
@@ -37,7 +37,7 @@ function Home() {
           </div>
           <div className="col-4">
             <Card className="text-center">
-              <Card.Header>Featured</Card.Header>
+              <Card.Header>Usuarios</Card.Header>
               <Card.Body>
                 <Card.Title>Special title treatment</Card.Title>
                 <Card.Text>
