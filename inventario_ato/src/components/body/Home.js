@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "./Home.css";
 function Home() {
   return (
-    <div>
+    <div className="home">
       <div className="desPage">
         <div className="row">
           <div className="col-4">
